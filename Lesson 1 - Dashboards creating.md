@@ -2,6 +2,8 @@
 
 Module: Module 2
 
+<iframe src="http://redash.public.karpov.courses/embed/query/34641/visualization/53425?api_key=HLWcG8H1Ru6PYfSiiGM5DPkd8BezOnnYpUKOG3V7&" width="720" height="391"></iframe>
+
 ### Exercise 1
 
 Для начала давайте проанализируем, насколько быстро растёт аудитория нашего сервиса, и посмотрим на динамику числа пользователей и курьеров.
