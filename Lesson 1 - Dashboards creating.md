@@ -2,7 +2,7 @@
 
 Module: Module 2
 
-<iframe src="http://redash.public.karpov.courses/embed/query/34641/visualization/53425?api_key=HLWcG8H1Ru6PYfSiiGM5DPkd8BezOnnYpUKOG3V7&" width="720" height="391"></iframe>
+[![Title](https://github.com/kirill505/sql-simulator-karpov/assets/7887486/b69b20f8-2069-4712-bbf4-5a252d32c804)](http://redash.public.karpov.courses/embed/query/34641/visualization/53425?api_key=HLWcG8H1Ru6PYfSiiGM5DPkd8BezOnnYpUKOG3V7&)
 
 ### Exercise 1
 
